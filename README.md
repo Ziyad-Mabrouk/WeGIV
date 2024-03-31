@@ -6,6 +6,9 @@ Pour résoudre ce problème social, on a proposé de créer une plateforme de do
 
 ![Asset 1](https://github.com/Ziyad-Mabrouk/WeGIV/assets/125457402/14b3355f-bc4f-4dff-b09e-b7ceee0690cd)
 
+## Platforme Web:
+https://github.com/AimaneACHACH/wegiv
+
 ## Contributeurs:
 - Achach Aimane
 - Mabrouk Ziyad
